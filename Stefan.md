@@ -17,7 +17,7 @@ Lets Dive in!
 
 3. in the Signatures Section Select "Add New Signature"
 
-4. Give your signature a Name eg. Phreys Aslan Signature
+4. Give your signature a Name eg. Stefans Aslan Signature
 
 5. Ensure that the associated email address is selected
 
