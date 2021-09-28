@@ -12,6 +12,7 @@ Lets Dive in!
 
 
 2. In Settings Select the Mail Tab
+
 ![alt text](https://res.cloudinary.com/isabicontest/image/upload/v1632816132/aslan/Screenshot_2021-09-28_at_08.57.37_y6ahfs.png)
 
 3. in the Signatures Section Select "Add New Signature"
