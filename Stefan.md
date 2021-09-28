@@ -38,9 +38,9 @@ ps. do not change any other Part of the Code
                 src="https://res.cloudinary.com/isabicontest/image/upload/v1631743344/aslan/stef_ume5du.png"
                 width="70">
             <div style="float: right">
-                <p style="margin:2px 5px; font-family: Arial;font-size: 18px;color: #27314A;font-weight: 600;">Name</p>
-                <p style="margin:2px 5px;font-family: Arial;font-size: 11px;color: #848D98;font-weight: 400;">Title</p>
-                <p style="margin:2px 5px; font-family: Arial;font-size: 11px;color: #848D98;font-weight: 400;">Email | Phone</p>
+                <p style="margin:2px 5px; font-family: Arial;font-size: 18px;color: #27314A;font-weight: 600;">{ Name }</p>
+                <p style="margin:2px 5px;font-family: Arial;font-size: 11px;color: #848D98;font-weight: 400;">{ Title }</p>
+                <p style="margin:2px 5px; font-family: Arial;font-size: 11px;color: #848D98;font-weight: 400;">{ Email | Phone }</p>
                 <p style="margin:10px 5px; font-size: 8px; font-family: Arial;color: #9C9C9C;font-weight: 400;">To view our email disclaimer click <a style='color: #27314A; font-weight: 600;' target="blank_" href='https://aslanweb.co/?page_id=1166'>here</a></p>
             </div>
         </div>
