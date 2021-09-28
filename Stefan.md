@@ -1,6 +1,6 @@
 # Hello Stefan
 
-This is a guide and a little assignment to setting up yourr Aslan Email Signature ✌🏾
+This is a guide and a little assignment to setting up your Aslan Email Signature ✌🏾
 
 Lets Dive in!
 
